@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;}
+
+#mylist{
+    margin: 200px auto;
+    all: unset;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ebebeb;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+option{
+    all: unset;
+    height: 50px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
